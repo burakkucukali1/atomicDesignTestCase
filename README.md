@@ -1,5 +1,5 @@
 # # Atomic Design Widget (Test Case)
-**Live Link:** [https://burakkucukali1.github.io/atomicDesignTestCase/](https://burakkucukali1.github.io/BoilerWebsite/)
+**Live Link:** [https://burakkucukali1.github.io/atomicDesignTestCase/](https://burakkucukali1.github.io/atomicDesignTestCase/)
 
 ### Features
 <hr>
